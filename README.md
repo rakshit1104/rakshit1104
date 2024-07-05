@@ -2,6 +2,7 @@
 <h3 align="center">A passionate developer from India</h3>
 
 - 🌱 I’m currently learning Java, DSA, Blockchain
+- Know more about me - **https://rakshitportfolio.onrender.com**
 - 📫 Reach me - **rakshit.lucky@gmail.com**<br>
 
 <h1 align="center">🌐 Socials:</h1>
@@ -22,12 +23,12 @@
 
 <h1 align="center">Languages and Tools:</h1>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,solidity,html,css,js,bootstrap,vscode,git,github" >
+<img src="https://skillicons.dev/icons?i=java,solidity,html,css,js,bootstrap,react,node,express,mongo,vscode,git,github" >
 </p>
 
 <h1 align="center">📊 GitHub Stats:</h1>
 <div align='center' width="6rem">
     <img  width="350px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=rakshit1104&theme=jolly&layout=compact&langs_count=10&hide=html"/>
-<!--     <img  width="300px" height="150px" src="https://github-readme-stats.vercel.app/api?username=rakshit1104&theme=jolly&show_icons=true"/> -->
+    <img  width="300px" height="150px" src="https://github-readme-stats.vercel.app/api?username=rakshit1104&theme=jolly&show_icons=true"/>
     <img  width="350px"   src="https://github-readme-streak-stats.herokuapp.com?user=rakshit1104&theme=jolly&border_radius=5" alt= "stats"/>
 </div>
